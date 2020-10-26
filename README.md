@@ -2,6 +2,7 @@
 # mycode (Project Title)
 
 Learning about Python and Ansible code!
+Learn about version control.
         
 ## Built With
 
